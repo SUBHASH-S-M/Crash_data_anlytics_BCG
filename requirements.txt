@@ -1,0 +1,4 @@
+pyspark==3.5.1
+regex==2024.4.28
+setuptools==69.5.1
+urllib3==2.2.1
