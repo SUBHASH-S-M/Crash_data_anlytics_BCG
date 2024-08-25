@@ -112,8 +112,15 @@ $SPARK_HOME/bin/spark-submit \
 #$BASE_PATH is the base location for code reference 
 ```
 
+
 ### Dev Side
 
 - Dev notebooks can found here and the development was done in Google Collab
   [Collab Notebook Offline](docs/dev_v2_case_study.ipynb)
+- loggers can be pulled from [loggers location git ](logs/)
 
+### Future Additions
+- `Tech Diagram` to be added soon!!! 
+- `Adding Github Action yaml` for codeql analysis and CICD.
+- `Enhanced logging  and Exception handling` enhancing  the loggers and exceptional handling a bit more
+- `Visualisation Addition` optional parms which can give appropriate charts,graphs for the questions
