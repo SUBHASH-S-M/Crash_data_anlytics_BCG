@@ -103,7 +103,7 @@ pip3 install crashanalysis-0.0.1-py3-none-any.whl
 ```bash
 #BASE_PATH(codes base path) and SPARK_HOME(location where pyspark is isntalled)
 export BASE_PATH=path_base/Crash_data_anlytics_BCG
-export SPARK_HOME=/Users/ssm7/Library/Python/3.12/lib/python/site-packages/
+export SPARK_HOME=/Users/subhash/Library/Python/3.12/lib/python/site-packages/
 $SPARK_HOME/bin/spark-submit \
      --deploy-mode client \
      --py-files $BASE_PATH/dist/crashanalysis-0.0.1-py3-none-any.whl \
