@@ -1,0 +1,70 @@
+08/25/2024 06:11:25 PM - INFO - loggers initialised succesfully at location /Users/ssm7/IdeaProjects/Crash_data_anlytics_BCG/logs
+08/25/2024 06:11:25 PM - INFO - json parsing /Users/ssm7/IdeaProjects/Crash_data_anlytics_BCG//configs/driver.json
+08/25/2024 06:11:25 PM - INFO - driver json parsing successfull /configs/driver.json
+08/25/2024 06:11:25 PM - INFO - json parsing /Users/ssm7/IdeaProjects/Crash_data_anlytics_BCG/configs/analysis_details.json
+08/25/2024 06:11:25 PM - INFO - analysis json parsing successfull /Users/ssm7/IdeaProjects/Crash_data_anlytics_BCG/configs/analysis_details.json
+08/25/2024 06:11:25 PM - INFO - job setup object initialised successfully
+08/25/2024 06:11:25 PM - INFO - job setup done , parsed the driver json and analysis json
+08/25/2024 06:11:25 PM - INFO - ________________analysing all_anlysis______________________
+08/25/2024 06:11:25 PM - INFO - all_anlysis
+08/25/2024 06:11:25 PM - INFO - ________________analysing get_crashes_with_high_deaths______________________
+08/25/2024 06:11:25 PM - INFO - get_crashes_with_high_deaths
+08/25/2024 06:11:25 PM - INFO - reading the path /Users/ssm7/IdeaProjects/Crash_data_anlytics_BCG/dataset/Data/Primary_Person_use.csv
+08/25/2024 06:11:29 PM - INFO - Writing result sets
+08/25/2024 06:11:30 PM - INFO - ________________****************_______________________
+08/25/2024 06:11:30 PM - INFO - ________________analysing count_two_wheelers______________________
+08/25/2024 06:11:30 PM - INFO - count_two_wheelers
+08/25/2024 06:11:30 PM - INFO - reading the path /Users/ssm7/IdeaProjects/Crash_data_anlytics_BCG/dataset/Data/Units_use.csv
+08/25/2024 06:11:31 PM - INFO - Writing result sets
+08/25/2024 06:11:31 PM - INFO - ________________****************_______________________
+08/25/2024 06:11:31 PM - INFO - ________________analysing get_top_vehicle_injuries______________________
+08/25/2024 06:11:31 PM - INFO - get_top_vehicle_injuries
+08/25/2024 06:11:31 PM - INFO - reading the path /Users/ssm7/IdeaProjects/Crash_data_anlytics_BCG/dataset/Data/Units_use.csv
+08/25/2024 06:11:32 PM - INFO - Writing result sets
+08/25/2024 06:11:32 PM - INFO - ________________****************_______________________
+08/25/2024 06:11:32 PM - INFO - ________________analysing get_top_vehicle_makes______________________
+08/25/2024 06:11:32 PM - INFO - get_top_vehicle_makes
+08/25/2024 06:11:32 PM - INFO - reading the path /Users/ssm7/IdeaProjects/Crash_data_anlytics_BCG/dataset/Data/Primary_Person_use.csv
+08/25/2024 06:11:33 PM - INFO - reading the path /Users/ssm7/IdeaProjects/Crash_data_anlytics_BCG/dataset/Data/Units_use.csv
+08/25/2024 06:11:33 PM - INFO - Writing result sets
+08/25/2024 06:11:33 PM - INFO - ________________****************_______________________
+08/25/2024 06:11:33 PM - INFO - ________________analysing count_hit_and_run_vehicles______________________
+08/25/2024 06:11:33 PM - INFO - count_hit_and_run_vehicles
+08/25/2024 06:11:33 PM - INFO - reading the path /Users/ssm7/IdeaProjects/Crash_data_anlytics_BCG/dataset/Data/Primary_Person_use.csv
+08/25/2024 06:11:33 PM - INFO - reading the path /Users/ssm7/IdeaProjects/Crash_data_anlytics_BCG/dataset/Data/Units_use.csv
+08/25/2024 06:11:34 PM - INFO - Writing result sets
+08/25/2024 06:11:34 PM - INFO - ________________****************_______________________
+08/25/2024 06:11:34 PM - INFO - ________________analysing get_top_states_with_highest_accidents______________________
+08/25/2024 06:11:34 PM - INFO - get_top_states_with_highest_accidents
+08/25/2024 06:11:34 PM - INFO - reading the path /Users/ssm7/IdeaProjects/Crash_data_anlytics_BCG/dataset/Data/Primary_Person_use.csv
+08/25/2024 06:11:35 PM - INFO - Writing result sets
+08/25/2024 06:11:35 PM - INFO - ________________****************_______________________
+08/25/2024 06:11:35 PM - INFO - ________________analysing get_top_ethnic_groups_per_body_style______________________
+08/25/2024 06:11:35 PM - INFO - get_top_ethnic_groups_per_body_style
+08/25/2024 06:11:35 PM - INFO - reading the path /Users/ssm7/IdeaProjects/Crash_data_anlytics_BCG/dataset/Data/Primary_Person_use.csv
+08/25/2024 06:11:35 PM - INFO - reading the path /Users/ssm7/IdeaProjects/Crash_data_anlytics_BCG/dataset/Data/Units_use.csv
+08/25/2024 06:11:35 PM - INFO - Writing result sets
+08/25/2024 06:11:36 PM - INFO - ________________****************_______________________
+08/25/2024 06:11:36 PM - INFO - ________________analysing get_top_zipcodes_with_alcohol_crashes______________________
+08/25/2024 06:11:36 PM - INFO - get_top_zipcodes_with_alcohol_crashes
+08/25/2024 06:11:36 PM - INFO - reading the path /Users/ssm7/IdeaProjects/Crash_data_anlytics_BCG/dataset/Data/Units_use.csv
+08/25/2024 06:11:36 PM - INFO - reading the path /Users/ssm7/IdeaProjects/Crash_data_anlytics_BCG/dataset/Data/Primary_Person_use.csv
+08/25/2024 06:11:37 PM - INFO - Writing result sets
+08/25/2024 06:11:37 PM - INFO - ________________****************_______________________
+08/25/2024 06:11:37 PM - INFO - ________________analysing analyze_crash_data______________________
+08/25/2024 06:11:37 PM - INFO - analyze_crash_data
+08/25/2024 06:11:37 PM - INFO - reading the path /Users/ssm7/IdeaProjects/Crash_data_anlytics_BCG/dataset/Data/Damages_use.csv
+08/25/2024 06:11:38 PM - INFO - reading the path /Users/ssm7/IdeaProjects/Crash_data_anlytics_BCG/dataset/Data/Charges_use.csv
+08/25/2024 06:11:38 PM - INFO - reading the path /Users/ssm7/IdeaProjects/Crash_data_anlytics_BCG/dataset/Data/Units_use.csv
+08/25/2024 06:11:49 PM - INFO - Writing result sets
+08/25/2024 06:11:50 PM - INFO - ________________****************_______________________
+08/25/2024 06:11:50 PM - INFO - ________________analysing get_top_5_vehicle_makes______________________
+08/25/2024 06:11:50 PM - INFO - get_top_5_vehicle_makes
+08/25/2024 06:11:50 PM - INFO - reading the path /Users/ssm7/IdeaProjects/Crash_data_anlytics_BCG/dataset/Data/Units_use.csv
+08/25/2024 06:11:50 PM - INFO - reading the path /Users/ssm7/IdeaProjects/Crash_data_anlytics_BCG/dataset/Data/Units_use.csv
+08/25/2024 06:11:51 PM - INFO - reading the path /Users/ssm7/IdeaProjects/Crash_data_anlytics_BCG/dataset/Data/Units_use.csv
+08/25/2024 06:11:51 PM - INFO - reading the path /Users/ssm7/IdeaProjects/Crash_data_anlytics_BCG/dataset/Data/Charges_use.csv
+08/25/2024 06:11:51 PM - INFO - reading the path /Users/ssm7/IdeaProjects/Crash_data_anlytics_BCG/dataset/Data/Primary_Person_use.csv
+08/25/2024 06:11:51 PM - INFO - Writing result sets
+08/25/2024 06:11:52 PM - INFO - ________________****************_______________________
+08/25/2024 06:11:52 PM - INFO - Execute the operations successfully
