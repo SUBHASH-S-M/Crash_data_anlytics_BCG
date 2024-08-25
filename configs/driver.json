@@ -1,0 +1,25 @@
+{
+"source_details":{   
+"source_path":"dataset/Data",
+"source_mapping":{
+        "Charges":"Charges_use.csv",
+        "Endorsements":"Endorse_use.csv",
+        "Restrict":"Restrict_use.csv",
+        "PrimaryPerson":"Primary_Person_use.csv",
+        "Unit":"Units_use.csv",
+        "Damages":"Damages_use.csv"
+        }
+},
+"analysis_details":{
+    "analysis_path":"configs/analysis_details.json"
+
+},
+"destination_details":{
+    "destinatnation_path":"output_analysis",
+    "destination_fileformat":"csv"
+}
+
+}
+
+
+

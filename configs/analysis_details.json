@@ -1,0 +1,16 @@
+{
+    "analysis_number_parmas":{   
+    
+            "all_anlysis":"Y",
+            "get_crashes_with_high_deaths":"2",
+            "count_two_wheelers":"",
+            "get_top_vehicle_injuries":"3|5",
+            "get_top_vehicle_makes": "5",
+            "count_hit_and_run_vehicles": "",
+            "get_top_states_with_highest_accidents": "1",
+            "get_top_ethnic_groups_per_body_style": "",
+            "get_top_zipcodes_with_alcohol_crashes": "",
+            "analyze_crash_data": "",
+            "get_top_5_vehicle_makes": ""
+    }
+}
