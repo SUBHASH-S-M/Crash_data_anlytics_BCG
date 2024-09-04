@@ -63,6 +63,7 @@ Here's a quick overview of the repository structure:
 - **Scripts/driver.py** main function which utilises the wheel and call the other functions
 - **configs/** contains driver and analysis json, separate json to maintain flexibility
 
+- **Dataset conventions** https://www.nhtsa.gov/sites/nhtsa.gov/files/documents/cris_crisdw_data_dictionary_v4.4_sub4_17_12.pdf
 
 ### Interesting USP of configs
 
